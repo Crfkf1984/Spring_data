@@ -1,4 +1,4 @@
-package com.example.spring_data.dao;
+package com.example.spring_data.repository;
 
 
 
